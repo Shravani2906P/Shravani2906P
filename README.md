@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shravani Pachkawade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on [FeedForward](https://github.com/IshitaGarg85/feedforward.git)
+<h3 align="center">A passionate frontend developer.</h3>
 
 - 📫 How to reach me **pachkawadeshravani@gmail.com**
 
