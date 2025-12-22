@@ -47,3 +47,26 @@
 </div>
 
 ###
+## 📊 Github Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shravani2906/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/Shravani2906/github-stats/master/generated/overview.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shravani2906/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/Shravani2906/github-stats/master/generated/languages.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Shravani2906&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravani2906&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
+</picture> &nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Shravani2906P&border_radius=7&card_width=235&card_height=214&background=0D1117&sideNums=4c8edf&sideLabels=ddd&border=777&dates=999&hide_total_contributions=true&hide_current_streak=true">
+  <img src="https://streak-stats.demolab.com/?user=Shravani2906&border_radius=7&card_width=235&card_height=190&sideNums=3483ed&sideLabels=555&border=e1e4e8&dates=777&hide_total_contributions=true&hide_current_streak=true">
+</picture>
+
+</div>
+<br>
