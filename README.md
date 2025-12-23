@@ -8,9 +8,9 @@
 <br/><br/>
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pachkawadeshravani@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani-pachkawade/)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shravani_2906)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-446078?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pachkawadeshravani@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-446078?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani-pachkawade/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-446078?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shravani_2906)&nbsp;
 
 </div>
 
@@ -21,7 +21,7 @@
 
 | | |
 |----------|--------|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp; ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp; ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000) |
 | **Backend** | ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|
 | **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) |
 | **Deployment & Hosting** | ![GithubPages](https://img.shields.io/badge/github%20pages-222222?style=for-the-badge&logo=github&logoColor=white) |
